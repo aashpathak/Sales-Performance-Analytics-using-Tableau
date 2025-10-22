@@ -13,12 +13,5 @@ The primary objective of this project was to perform an in-depth analysis of sal
 | `Sales_Performance_Analysis_Report.pdf` 
 | `Group Assignment Presentation- Sales Performance Analysis.pptx`
 | `Group Assignment- Tableau report.pdf`
-
-## Team Members
-* Ashutosh Vinay Pathak
-* Chetan Raja Nayak
-* Saran Baskar
-* Yashas Nagaraju Raj
-
 ---
 *Note: The analysis was performed using **Tableau** and insights were derived from multi-year sales data.*
