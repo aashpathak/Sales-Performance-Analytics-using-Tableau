@@ -10,8 +10,8 @@ The primary objective of this project was to perform an in-depth analysis of sal
 * **Geographic Analysis:** Assessed performance across different regions to identify high-growth areas and underperforming markets.
 
 ## Deliverables Included
-| `Sales_Performance_Analysis_Report.pdf` 
-| `Group Assignment Presentation- Sales Performance Analysis.pptx`
-| `Group Assignment- Tableau report.pdf`
+Sales_Performance_Analysis_Report.pdf` 
+Group Assignment Presentation- Sales Performance Analysis.pptx
+Group Assignment- Tableau report.pdf`
 ---
 *Note: The analysis was performed using **Tableau** and insights were derived from multi-year sales data.*
