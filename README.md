@@ -7,7 +7,7 @@ Key business questions:
 - Which categories and sub-categories drive most revenue and profit?
 - Where do discounts reduce margin?
 - Which regions and segments perform best over time?
-- 
+
 ## 2) Key Findings & Insights
 -Sales, orders, customers, and profit grow every year from 2011 to 2014, with peak in 2014.
 -Technology category contributes the most sales (≈36%) vs. Furniture and Office Supplies.
