@@ -17,17 +17,16 @@ Key business questions:
 
 ## 3) Repository Structure
 ├── data/
-│   └── refined_data.xlsx          
+│ └── refined_data.xlsx # Cleaned dataset used by Tableau (place your file here)
 ├── tableau/
-│   ├── workbooks/
-│   │   └── sales_performance.twbx 
-│   └── dashboards/              
+│ ├── workbooks/
+│ │ └── sales_performance.twbx # Export your packaged workbook here
+│ └── dashboards/ # (Optional) Exported PNGs from dashboards
 ├── reports/
-│   ├── Sales_Performance_Analysis_Report.pdf
-│   ├── Tableau report.pdf
-│   └── Presentation- Sales Performance Analysis.pptx
+│ ├── Sales_Performance_Analysis_Report.pdf
+│ ├── Group Assignment- Tableau report.pdf
+│ └── Group Assignment Presentation- Sales Performance Analysis.pptx
 └── README.md
-
 ## 4) Data & Cleaning
 - Original dataset has: Order ID, Order Date, Ship Date, Customer, Segment, Region, Category, Sub-Category, Product, Sales, Quantity, Discount, Profit.
 - Cleaning steps:
