@@ -73,7 +73,9 @@ Key business questions:
 - **Tableau report.pdf** — dashboard screenshots and KPI summaries.  
 - **Presentation- Sales Performance Analysis.pptx** — slide deck for stakeholders.
 
-## 9) Authors & Course
-- Prepared by: **Ashutosh Pathak**
-- Module: **Business Analytics
+## 9) Author
+**Ashutosh Pathak**  
+Business Analytics Student | Data Enthusiast  
+ashup1033@gmail.com
+
 
