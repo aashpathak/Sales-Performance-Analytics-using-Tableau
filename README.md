@@ -75,5 +75,5 @@ Key business questions:
 
 ## 9) Authors & Course
 - Prepared by: **Ashutosh Pathak**
-- Module: *Business Analytics
+- Module: **Business Analytics
 
